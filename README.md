@@ -1,2 +1,4 @@
-# congenial_spork
-Pybamm tutorial series by https://www.youtube.com/@BatteryDataGuy.
+# Congenial Spork
+Pybamm tutorial series by: 
+
+https://www.youtube.com/@BatteryDataGuy.
